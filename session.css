@@ -2,6 +2,10 @@
   background-color: blue;
 }
 
+body {
+  margin: 20px
+}
+
 .ci {
 	background-image: url('background.jpg');
 }
