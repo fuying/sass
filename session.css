@@ -27,6 +27,7 @@ body {
 
 .parent, .child {
   border: 1px solid black;
+  font-size: 20px;
 }
 
 .child {
@@ -58,4 +59,5 @@ body {
 
 .imp {
   border: 30px dotted green;
+  border: 20px solid red;
 }
