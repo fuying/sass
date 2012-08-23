@@ -2,6 +2,13 @@
   background-color: blue;
 }
 
+.ci {
+	background-image: url('background.jpg');
+}
+
+.imp {
+	padding: 3px;
+}
 div {
   color: #1875e7;
 }
